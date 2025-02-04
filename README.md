@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Mahesh7741/machine-learning-repo.git)
 
-- 🌱 I’m currently learning **Fullstack Development and Salesforce development **
+- 🌱 I’m currently learning ** Fullstack Development and Salesforce development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahesh7741](https://github.com/Mahesh7741)
 
